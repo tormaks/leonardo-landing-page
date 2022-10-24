@@ -1,4 +1,7 @@
 .cards__image {
+  border-bottom: 3px solid #980808;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
   width: 100%;
-  height: 450px;
+  height: 400px;
 }
