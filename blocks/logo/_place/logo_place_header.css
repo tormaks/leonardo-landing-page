@@ -1,0 +1,14 @@
+.logo_place_header {
+	max-height: 32px;
+	position: absolute;
+	top: 30px;
+	left: 64px;
+	opacity: 1;
+	-webkit-transition: opacity 0.1s linear;
+	-o-transition: opacity 0.1s linear;
+	transition: opacity 0.1s linear;
+}
+
+.logo_place_header:hover {
+	opacity: 0.5;
+}
